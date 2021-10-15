@@ -1,2 +1,2 @@
-# AgavaCOVID-Doc
+# AgavaCOVID-Documentación
 Memorias del Proyecto AgavaCOVID
